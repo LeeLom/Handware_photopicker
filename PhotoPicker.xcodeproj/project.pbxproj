@@ -44,6 +44,7 @@
 			children = (
 				E6EA60681DACBFF700F79067 /* PhotoPicker */,
 				E6EA60671DACBFF700F79067 /* Products */,
+				E6EA60691DACBFF700F79067 /* Supporting Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -66,7 +67,6 @@
 				E6EA60751DACBFF700F79067 /* Assets.xcassets */,
 				E6EA60771DACBFF700F79067 /* LaunchScreen.storyboard */,
 				E6EA607A1DACBFF700F79067 /* Info.plist */,
-				E6EA60691DACBFF700F79067 /* Supporting Files */,
 			);
 			path = PhotoPicker;
 			sourceTree = "<group>";
@@ -77,6 +77,7 @@
 				E6EA606A1DACBFF700F79067 /* main.m */,
 			);
 			name = "Supporting Files";
+			path = PhotoPicker;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -299,6 +300,7 @@
 				E6EA607F1DACBFF700F79067 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
